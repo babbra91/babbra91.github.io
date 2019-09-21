@@ -1,17 +1,17 @@
-Raquel Babb
+# Raquel Babb
 
 ```
 Title: [My Python Repository]
 Description: [A repo housing Python graphing basics and more.]
 ```
 
-# Link to My Repository
+## Link to My Repository
 
 [My Repository](https://babbra91.github.io)
 
-![A Photo of Me](/OneDrive/Pictures/Selfie.jpg)
+![A Photo of Me](C:/Users/babbra/OneDrive/Pictures/Selfie.jpg)
 
-## Files
+### Files
 
 This is content I've developed for my course:
 

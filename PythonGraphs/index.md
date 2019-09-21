@@ -9,7 +9,7 @@ Description: [A repo housing Python graphing basics and more.]
 
 [My Repository](https://babbra91.github.io)
 
-![A Photo of Me](C:\Users\babbra\OneDrive\Pictures\Selfie.jpg)
+![A Photo of Me](/Pics/Selfie.jpg)
 
 ### Files
 

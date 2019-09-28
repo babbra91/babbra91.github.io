@@ -5,8 +5,8 @@ layout: default
 # Raquel Babb
 
 ```
-Title: [My Python Repository]
-Description: [A repo housing Python graphing basics and more.]
+title: [My Python Repository]
+description: [A repo housing Python graphing basics and more.]
 ```
 
 ## Link to My Repository

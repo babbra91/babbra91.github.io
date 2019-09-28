@@ -1,14 +1,10 @@
-title: Cayman theme
-description: Cayman is a clean, responsive theme for GitHub Pages.
-show_downloads: true
-google_analytics:
-theme: jekyll-theme-cayman
-
 # Raquel Babb
 
 ```
 Title: [My Python Repository]
 Description: [A repo housing Python graphing basics and more.]
+show_downloads: true
+theme: jekyll-theme-cayman
 ```
 
 ## Link to My Repository

@@ -4,13 +4,6 @@ layout: default
 
 # Raquel Babb
 
-```
-title: [My Python Repository]
-description: [A repo housing Python graphing basics and more.]
-```
-
-## Link to My Repository
-
 [My Repository](https://babbra91.github.io)
 
 ![A Photo of Me](/Pics/Selfie_Resizedv2.PNG)
